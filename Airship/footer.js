@@ -204,7 +204,7 @@ footerTemplate.innerHTML = `
 
   <span class="color6 font1">
 
-   <h3> Made / Written By Rhys Grover </h3>
+   <h3> Website By: Rhys Grover <span class="navbardivider">|</span> Game By: Option 2 Games </h3>
 
    </span>
 
