@@ -246,7 +246,7 @@ class Header extends HTMLElement {
           <span class="navbardivider">|</span>
           <a class="navbarbutton" href="Review.html">Music</a>
           <span class="navbardivider">|</span>
-          <a class="navbarbutton" href="Review.html">Shop</a>
+          <a class="navbarbutton" href="download.html">Downloads</a>
 
         </div>
         </nav>
