@@ -1,8 +1,8 @@
 var sections = [
 		{	sentence: "404"
-	  },
+		},
 		{	sentence: "404 (Page Not Found)"
-	  }
+		}
 	];
 var i = 0;
 var j = 0;
@@ -10,7 +10,7 @@ var k = 0;
 var lengthSentence = 0;
 var lengthArray = sections.length;
 var forward = true;
-var beginning = "You've Got Error";
+var beginning = "Error:";
 var currentPart = "";
 var interval = 50;
 var opening = false;
