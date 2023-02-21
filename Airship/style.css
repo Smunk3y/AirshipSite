@@ -576,3 +576,13 @@ font-size: 24px;
 .Roundedges{
   border-radius: 15px;
 }
+
+.videotopright{
+  display: block;
+  float: right;
+}
+
+.videotopleft{
+  display: block;
+  float: left;
+}
