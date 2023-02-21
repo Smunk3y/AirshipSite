@@ -40,7 +40,7 @@
   display: grid;
   justify-items: center;
   align-items: center;
-  margin-bottom: 230px;
+  margin-bottom: 130px;
 }
 
 .login-form-field::placeholder {
